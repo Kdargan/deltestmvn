@@ -1,0 +1,70 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -----------------------< deltestmvn:deltestmvn >------------------------
+[INFO] Building eclipsemvndel 0.0.1-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.pom
+Progress (1): 1.4/6.8 kBProgress (1): 2.8/6.8 kBProgress (1): 4.1/6.8 kBProgress (1): 5.5/6.8 kBProgress (1): 6.8 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.pom (6.8 kB at 24 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.jar
+Progress (1): 1.4/27 kBProgress (1): 2.8/27 kBProgress (1): 4.1/27 kBProgress (1): 5.5/27 kBProgress (1): 6.9/27 kBProgress (1): 8.3/27 kBProgress (1): 9.7/27 kBProgress (1): 11/27 kB Progress (1): 12/27 kBProgress (1): 14/27 kBProgress (1): 15/27 kBProgress (1): 17/27 kBProgress (1): 18/27 kBProgress (1): 19/27 kBProgress (1): 21/27 kBProgress (1): 22/27 kBProgress (1): 23/27 kBProgress (1): 25/27 kBProgress (1): 26/27 kBProgress (1): 27 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/plugins/maven-jar-plugin/3.3.0/maven-jar-plugin-3.3.0.jar (27 kB at 701 kB/s)
+[INFO] 
+[INFO] --- resources:3.3.0:resources (default-resources) @ deltestmvn ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\LENOVO-PC\eclipse-workspace\deltestmvn\src\main\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:compile (default-compile) @ deltestmvn ---
+[INFO] Changes detected - recompiling the module!
+[WARNING] File encoding has not been set, using platform encoding Cp1252, i.e. build is platform dependent!
+[INFO] Compiling 2 source files to C:\Users\LENOVO-PC\eclipse-workspace\deltestmvn\target\classes
+[INFO] 
+[INFO] --- resources:3.3.0:testResources (default-testResources) @ deltestmvn ---
+[WARNING] Using platform encoding (Cp1252 actually) to copy filtered resources, i.e. build is platform dependent!
+[INFO] skip non existing resourceDirectory C:\Users\LENOVO-PC\eclipse-workspace\deltestmvn\src\test\resources
+[INFO] 
+[INFO] --- compiler:3.8.1:testCompile (default-testCompile) @ deltestmvn ---
+[INFO] No sources to compile
+[INFO] 
+[INFO] --- surefire:3.0.0:test (default-test) @ deltestmvn ---
+[INFO] No tests to run.
+[INFO] 
+[INFO] --- jar:3.3.0:jar (default-jar) @ deltestmvn ---
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.pom
+Progress (1): 1.4/4.5 kBProgress (1): 2.8/4.5 kBProgress (1): 4.1/4.5 kBProgress (1): 4.5 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.pom (4.5 kB at 280 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.pom
+Progress (1): 1.4/3.9 kBProgress (1): 2.8/3.9 kBProgress (1): 3.9 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.pom (3.9 kB at 245 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.pom
+Progress (1): 1.4/6.0 kBProgress (1): 2.8/6.0 kBProgress (1): 4.1/6.0 kBProgress (1): 5.5/6.0 kBProgress (1): 6.0 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.pom (6.0 kB at 251 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.pom
+Progress (1): 1.4/6.3 kBProgress (1): 2.8/6.3 kBProgress (1): 4.1/6.3 kBProgress (1): 5.5/6.3 kBProgress (1): 6.3 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.pom (6.3 kB at 368 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.pom
+Progress (1): 16/20 kBProgress (1): 20 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.pom (20 kB at 656 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.pom
+Progress (1): 2.0 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.pom (2.0 kB at 108 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom
+Progress (1): 8.2 kB                    Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.pom (8.2 kB at 587 kB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.jar
+Progress (1): 16/36 kBProgress (1): 33/36 kBProgress (1): 36 kB                      Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/shared/file-management/3.1.0/file-management-3.1.0.jar (36 kB at 1.0 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.jar
+Downloading from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar
+Progress (1): 16/116 kBProgress (1): 33/116 kBProgress (1): 49/116 kBProgress (1): 66/116 kBProgress (1): 82/116 kBProgress (1): 98/116 kBProgress (1): 115/116 kBProgress (1): 116 kB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/tukaani/xz/1.9/xz-1.9.jar (116 kB at 2.5 MB/s)
+Downloading from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar
+Progress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (1): 0/1.0 MBProgress (2): 0/1.0 MB | 16/79 kBProgress (2): 0/1.0 MB | 16/79 kBProgress (3): 0/1.0 MB | 16/79 kB | 16/267 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 1.4/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 2.8/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 4.1/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 5.5/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 6.9/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 8.3/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 9.7/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 16/267 kB | 11/26 kB Progress (4): 0/1.0 MB | 16/79 kB | 33/267 kB | 11/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 49/267 kB | 11/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 66/267 kB | 11/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 66/267 kB | 12/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 66/267 kB | 14/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 82/267 kB | 14/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 98/267 kB | 14/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 14/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 15/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 17/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 18/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 19/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 19/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 21/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 22/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 23/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 25/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 26/26 kBProgress (4): 0/1.0 MB | 16/79 kB | 115/267 kB | 26 kB   Progress (5): 0/1.0 MB | 16/79 kB | 115/267 kB | 26 kB | 16/211 kBProgress (5): 0/1.0 MB | 33/79 kB | 115/267 kB | 26 kB | 16/211 kBProgress (5): 0/1.0 MB | 33/79 kB | 131/267 kB | 26 kB | 16/211 kBProgress (5): 0/1.0 MB | 33/79 kB | 147/267 kB | 26 kB | 16/211 kB                                                                  Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/maven/maven-archiver/3.6.0/maven-archiver-3.6.0.jar (26 kB at 298 kB/s)
+Progress (4): 0/1.0 MB | 33/79 kB | 164/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 180/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 197/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 213/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 229/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 246/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 256/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 256/267 kB | 16/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 256/267 kB | 33/211 kBProgress (4): 0/1.0 MB | 33/79 kB | 256/267 kB | 49/211 kBProgress (4): 0/1.0 MB | 49/79 kB | 256/267 kB | 49/211 kBProgress (4): 0/1.0 MB | 49/79 kB | 256/267 kB | 66/211 kBProgress (4): 0/1.0 MB | 49/79 kB | 267 kB | 66/211 kB    Progress (4): 0/1.0 MB | 66/79 kB | 267 kB | 66/211 kB                                                      Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-utils/3.4.2/plexus-utils-3.4.2.jar (267 kB at 2.6 MB/s)
+Progress (3): 0/1.0 MB | 66/79 kB | 82/211 kBProgress (3): 0.1/1.0 MB | 66/79 kB | 82/211 kBProgress (3): 0.1/1.0 MB | 79 kB | 82/211 kB   Progress (3): 0.1/1.0 MB | 79 kB | 82/211 kBProgress (3): 0.1/1.0 MB | 79 kB | 82/211 kBProgress (3): 0.1/1.0 MB | 79 kB | 98/211 kBProgress (3): 0.1/1.0 MB | 79 kB | 98/211 kB                                            Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-io/3.4.0/plexus-io-3.4.0.jar (79 kB at 702 kB/s)
+Progress (2): 0.1/1.0 MB | 98/211 kBProgress (2): 0.1/1.0 MB | 115/211 kBProgress (2): 0.1/1.0 MB | 131/211 kBProgress (2): 0.1/1.0 MB | 147/211 kBProgress (2): 0.1/1.0 MB | 164/211 kBProgress (2): 0.1/1.0 MB | 180/211 kBProgress (2): 0.1/1.0 MB | 197/211 kBProgress (2): 0.1/1.0 MB | 197/211 kBProgress (2): 0.1/1.0 MB | 211 kB                                     Downloaded from central: https://repo.maven.apache.org/maven2/org/codehaus/plexus/plexus-archiver/4.4.0/plexus-archiver-4.4.0.jar (211 kB at 1.8 MB/s)
+Progress (1): 0.2/1.0 MBProgress (1): 0.2/1.0 MBProgress (1): 0.2/1.0 MBProgress (1): 0.2/1.0 MBProgress (1): 0.2/1.0 MBProgress (1): 0.2/1.0 MBProgress (1): 0.3/1.0 MBProgress (1): 0.3/1.0 MBProgress (1): 0.3/1.0 MBProgress (1): 0.3/1.0 MBProgress (1): 0.3/1.0 MBProgress (1): 0.3/1.0 MBProgress (1): 0.4/1.0 MBProgress (1): 0.4/1.0 MBProgress (1): 0.4/1.0 MBProgress (1): 0.4/1.0 MBProgress (1): 0.4/1.0 MBProgress (1): 0.4/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.5/1.0 MBProgress (1): 0.6/1.0 MBProgress (1): 0.6/1.0 MBProgress (1): 0.6/1.0 MBProgress (1): 0.6/1.0 MBProgress (1): 0.6/1.0 MBProgress (1): 0.6/1.0 MBProgress (1): 0.7/1.0 MBProgress (1): 0.7/1.0 MBProgress (1): 0.7/1.0 MBProgress (1): 0.7/1.0 MBProgress (1): 0.7/1.0 MBProgress (1): 0.7/1.0 MBProgress (1): 0.8/1.0 MBProgress (1): 0.8/1.0 MBProgress (1): 0.8/1.0 MBProgress (1): 0.8/1.0 MBProgress (1): 0.8/1.0 MBProgress (1): 0.8/1.0 MBProgress (1): 0.9/1.0 MBProgress (1): 0.9/1.0 MBProgress (1): 0.9/1.0 MBProgress (1): 0.9/1.0 MBProgress (1): 0.9/1.0 MBProgress (1): 0.9/1.0 MBProgress (1): 1.0/1.0 MBProgress (1): 1.0/1.0 MBProgress (1): 1.0/1.0 MBProgress (1): 1.0/1.0 MBProgress (1): 1.0 MB                        Downloaded from central: https://repo.maven.apache.org/maven2/org/apache/commons/commons-compress/1.21/commons-compress-1.21.jar (1.0 MB at 5.2 MB/s)
+[INFO] Building jar: C:\Users\LENOVO-PC\eclipse-workspace\deltestmvn\target\deltestmvn-0.0.1-SNAPSHOT.jar
+[INFO] 
+[INFO] --- install:3.1.0:install (default-install) @ deltestmvn ---
+[INFO] Installing C:\Users\LENOVO-PC\eclipse-workspace\deltestmvn\pom.xml to C:\Users\LENOVO-PC\.m2\repository\deltestmvn\deltestmvn\0.0.1-SNAPSHOT\deltestmvn-0.0.1-SNAPSHOT.pom
+[INFO] Installing C:\Users\LENOVO-PC\eclipse-workspace\deltestmvn\target\deltestmvn-0.0.1-SNAPSHOT.jar to C:\Users\LENOVO-PC\.m2\repository\deltestmvn\deltestmvn\0.0.1-SNAPSHOT\deltestmvn-0.0.1-SNAPSHOT.jar
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  3.140 s
+[INFO] Finished at: 2024-03-04T02:06:07+05:30
+[INFO] ------------------------------------------------------------------------
