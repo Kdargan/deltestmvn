@@ -15,37 +15,37 @@ public class ArraylistDemo {
 		Arrlist.add(2, 40);
 		Arrlist.add(null);
 		Arrlist.add(50);
-		System.out.println(Arrlist);
+		System.err.println(Arrlist);
 		
 /* Rules - Insertion order is maintained.
  * Duplicates are allowed.
  * Null value is accepted
  * No need to define the size.
  */
-		System.out.println(Arrlist.get(2));
-		System.out.println(Arrlist.get(3));
-		System.out.println(Arrlist.size());
+		System.err.println(Arrlist.get(2));
+		System.err.println(Arrlist.get(3));
+		System.err.println(Arrlist.size());
 		Arrlist.set(3, 110);
 		Arrlist.remove(4);
-		System.out.println(Arrlist);
+		System.err.println(Arrlist);
 		System.out.println(Arrlist.size());
 		Arrlist.add(2, 30);
-		System.out.println(Arrlist);
-		System.out.println(Arrlist.contains(null));
-		System.out.println(Arrlist.contains(90));
+		System.err.println(Arrlist);
+		System.err.println(Arrlist.contains(null));
+		System.err.println(Arrlist.contains(90));
 		
 		ArrayList<Integer> Arrlist2 = new ArrayList<>();
 		Arrlist2.addAll(Arrlist); 	// Add everything in 1st Array from 2nd Array
-		System.out.println(Arrlist2);
-		System.out.println(Arrlist2.size());
+		System.err.println(Arrlist2);
+		System.err.println(Arrlist2.size());
 		ArrayList<Integer> Arrlist3 = new ArrayList<>();
 		Arrlist3.add(10);
 		Arrlist3.add(20);
 		Arrlist3.add(40);
 		Arrlist3.addAll(1, Arrlist2);
-		System.out.println(Arrlist3);
+		System.err.println(Arrlist3);
 		Arrlist3.clear();
-		System.out.println(Arrlist3);
+		System.err.println(Arrlist3);
 		/*int i;		
 		for (i=0; i< Arrlist.size()-1; i++);
 		Arrlist3.add(Arrlist.get(i));
